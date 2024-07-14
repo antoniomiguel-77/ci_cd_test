@@ -15,6 +15,6 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.0.0
       with:
         server: ftp.fortcodedev.com
-        username: fortcod1@teste.fortcodedev.com
+        username: fortcod1@test.fortcodedev.com
         password: devTest24
         server-dir: /home/fortcod1/test.fortcodedev.com/
