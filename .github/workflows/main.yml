@@ -1,5 +1,6 @@
-on: push
-  branches: 
+on:
+  push:
+    branches: 
     - main
 name: 🚀 Deploy website on push
 jobs:
@@ -15,5 +16,5 @@ jobs:
       with:
         server: ftp.fortcodedev.com
         username: fortcod1@teste.fortcodedev.com
-        password: ML4#1ymi7GeI7:
+        password: devTest24
         server-dir: /home/fortcod1/teste.fortcodedev.com/
