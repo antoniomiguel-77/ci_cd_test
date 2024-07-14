@@ -17,4 +17,4 @@ jobs:
         server: ftp.fortcodedev.com
         username: fortcod1@teste.fortcodedev.com
         password: devTest24
-        server-dir: /home/fortcod1/teste.fortcodedev.com
+        server-dir: /home/fortcod1/teste.fortcodedev.com/
