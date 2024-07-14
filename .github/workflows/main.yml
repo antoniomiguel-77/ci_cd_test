@@ -16,4 +16,4 @@ jobs:
         server: ftp.fortcodedev.com
         username: fortcod1@teste.fortcodedev.com
         password: ML4#1ymi7GeI7:
-        servicer-dir: /home/fortcod1/teste.fortcodedev.com/
+        server-dir: /home/fortcod1/teste.fortcodedev.com/
