@@ -1,0 +1,14 @@
+import: 
+  - recipe/laravel.php
+
+config:
+  repository: 'https://github.com/antoniomiguel-77/ci_cd_test.git'
+
+hosts:
+
+tasks:
+  build:
+    - run: uptime  
+
+after:
+  deploy:failed: deploy:unlock
